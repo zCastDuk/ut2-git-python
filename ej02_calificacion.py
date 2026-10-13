@@ -7,7 +7,7 @@ elif nota >= 5 and nota < 7:
 elif nota >=7 and nota < 9:
     calificación = 'Notable'
 elif nota >=9 and nota <=10:
-    calificación = 'Sobresaliente'
+    calificación = 'Sobresaliente.'
 else: 
     calificación = 'No valido'
 print(f"Calificación: {calificación}" )
