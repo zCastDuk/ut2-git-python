@@ -1,3 +1,4 @@
+limite = int(input("¿Hasta qué número?"))
 
 for i in range(1, 30):
     if i % 3 == 0 and i % 5 == 0:
@@ -8,3 +9,4 @@ for i in range(1, 30):
         print(" Buzz ")
     else:
         print(i)
+print("Fin")
