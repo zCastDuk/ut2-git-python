@@ -6,7 +6,7 @@ op = input("Introduce una opción del menú: ")
 match op:
 
     case "1":
-        print("Hola")
+        print("Hola!!")
         
     case "2":
         print("Adiós!!")
