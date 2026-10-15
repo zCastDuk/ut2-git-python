@@ -2,7 +2,7 @@
 5
 Repositorio de prácticas de Git con los ejercicios de la UT2.
 
-## Ejercicios
+## Ejercicios jeje
 | Fichero | Estructura de control |
 |---|---|
 | ej01_par_impar.py | if / else |
