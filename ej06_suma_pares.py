@@ -1,4 +1,4 @@
-num = int(input("Suma los pares hasta: "))
+num = int(input("Suma los pares hasta (valor númerico): "))
 suma = 0
 
 for i in range(0, num + 1):
