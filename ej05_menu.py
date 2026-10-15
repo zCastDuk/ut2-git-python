@@ -12,7 +12,7 @@ match op:
         print("Adiós!!")
         
     case "3":
-        print("adiós...")
+        print("Saliendo...")
         
     case _:
         print("Opción no válida")
