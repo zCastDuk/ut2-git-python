@@ -2,6 +2,9 @@
 5
 Repositorio de prácticas de Git con los ejercicios de la UT2.
 
+## Colaboradores 
+- Ian Navarro Lopez (1ackk)
+
 ## Ejercicios jeje
 | Fichero | Estructura de control |
 |---|---|
