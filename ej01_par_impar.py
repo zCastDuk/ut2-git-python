@@ -1,5 +1,4 @@
 numero = int(input("Introduce un número entero: "))
-utor: Compañero
 
 if(numero%2 == 0):
     print(f"El número {numero} es par")
