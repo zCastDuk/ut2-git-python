@@ -1,7 +1,7 @@
 numero = int(input("Introduce un número entero: "))
 ##3
 
-if(numero%2 == 0):
+if(snumero%2 == 0):
     print(f"El número {numero} es par")
 elif numero == 0:
     print(f"El número es 0.")
